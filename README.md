@@ -1,3 +1,4 @@
 # hello-world
-Try new things
+Try some things
+
     Learning GitHub
